@@ -1,0 +1,23 @@
+{
+  "name": "generator-exstraperator",
+  "version": "1.0.0",
+  "description": "An express, bootstrap yeoman generator.",
+  "files": ["app"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "bootstrap",
+    "mongodb",
+    "mongoose",
+    "handlebars",
+    "elementsjs",
+    "yeoman",
+    "generator",
+    "yeoman-generator"
+  ],
+  "author": "Eric James Foster",
+  "license": "ISC"
+}
