@@ -1,6 +1,6 @@
 {
   "name": "generator-exstraperator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Express, Bootstrap Yeoman Generator. Choose from 6 Bootstrap Templates. Includes HTML5 Boilerplate, Handlebars Templating/View Engine and Mongoose (MongoDB) on the Back-end.",
   "homepage": "https://github.com/ejames9/generator-exstraperator",
   "author": "Eric James Foster",
