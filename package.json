@@ -19,10 +19,6 @@
     "generator",
     "yeoman-generator"
   ],
-  "scripts": {
-    "test": "gulp",
-    "prepublish": "gulp prepublish"
-  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^1.0.0",
