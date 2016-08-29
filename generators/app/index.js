@@ -1,3 +1,4 @@
+'use_strict';
 /*
 index.js
 
@@ -14,7 +15,7 @@ var Yeoman = require('yeoman-generator').Base,
      chalk = require('chalk'),
       path = require('path'),
     mkdirp = require('mkdirp'),
-   slugify = require('underscore.string/slugify');
+   slugify = require('underscore.string/slugify'),
      yosay = require('yosay');
 
 
